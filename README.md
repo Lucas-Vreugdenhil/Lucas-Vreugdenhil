@@ -1,9 +1,9 @@
 ### Hi there, I am Lucas 👋
 
 **Languages:**
-- Java
+- Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 - C#
-- Javascript
+- Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 - Node.js
 - Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
 - html(css, bootstrap)
