@@ -5,13 +5,13 @@
 - C#
 - Javascript
 - Node.js
-- Python
+- Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 - html(css, bootstrap)
 - php
 - MySQL
 
 **What I'm working on:**
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning in python.
 - 🔭 I’m currently working on a bot that can guess the geographic location from a picture.
 
 **Contact me:**
