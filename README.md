@@ -11,8 +11,8 @@
 - MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 
 **What I'm working on:**
-- 🌱 I’m currently learning machine learning in python.
-- 🔭 I’m currently working on a bot that can guess the geographic location from a picture.
+<!-- - 🌱 I’m currently learning machine learning in python. -->
+- 🔭 I’m currently working on a Youtube Downloader project.
 
 **Contact me:**
 - 📫 lucasvreugdenhil@gmail.com
