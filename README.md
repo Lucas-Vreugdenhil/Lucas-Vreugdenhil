@@ -12,7 +12,7 @@
 
 **What I'm working on:**
 <!-- - 🌱 I’m currently learning machine learning in python. -->
-- 🔭 I’m currently working on a Youtube Downloader project.
+- 🔭 I’m currently looking for a project to work on.
 
 **Contact me:**
 - 📫 lucasvreugdenhil@gmail.com
