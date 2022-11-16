@@ -1,14 +1,15 @@
 ### Hi there, I am Lucas 👋
 
 **Skills:**
-- C# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
-- Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
-- Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-- Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-- Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-- html(css, bootstrap)
-- php <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-- MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
+- <img src="https://skills.thijs.gg/icons?i=cs&theme=dark" alt="cs" width="20" height="20"/> C#
+- <img src="https://skills.thijs.gg/icons?i=java&theme=dark" alt="Java" width="20" height="20"/> Java
+- <img src="https://skills.thijs.gg/icons?i=js&theme=dark" alt="Javascript" width="20" height="20"/> Javascript
+- <img src="https://skills.thijs.gg/icons?i=vue&theme=dark" alt="Vue" width="20" height="20"/> Vue
+- <img src="https://skills.thijs.gg/icons?i=nodejs&theme=dark" alt="Nodejs" width="20" height="20"/> Node.js
+- <img src="https://skills.thijs.gg/icons?i=py&theme=dark" alt="Python" width="20" height="20"/> Python
+- <img src="https://skills.thijs.gg/icons?i=html&theme=dark" alt="html" width="20" height="20"/> html(css, bootstrap)
+- <img src="https://skills.thijs.gg/icons?i=php&theme=dark" alt="php" width="20" height="20"/> php
+- <img src="https://skills.thijs.gg/icons?i=mysql&theme=dark" alt="MySQL" width="20" height="20"/> MySQL
 
 **What I'm working on:**
 <!-- - 🌱 I’m currently learning machine learning in python. -->
